@@ -20,6 +20,11 @@ develop-eggs
 lib
 lib64
 
+#visual studio
+*.pyproj
+*.sln
+*.suo
+
 # Installer logs
 pip-log.txt
 
